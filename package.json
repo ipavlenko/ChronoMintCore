@@ -1,0 +1,15 @@
+{
+  "name": "@chronobank/chronomint-core",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bignumber.js": "^5.0.0",
+    "chronobank-smart-contracts": "^1.1.43",
+    "immutable": "^3.8.2",
+    "moment": "^2.19.3",
+    "promisify-node-callback": "^1.0.2",
+    "truffle-contract": "^3.0.1",
+    "uniqid": "^4.1.1"
+  }
+}
